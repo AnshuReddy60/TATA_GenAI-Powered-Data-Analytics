@@ -90,3 +90,4 @@ The project’s goal was to design an **AI-powered strategy** that predicts deli
 * Gained experience in **end-to-end consulting workflow**, from data analysis to strategy and automation
 
 ---
+
